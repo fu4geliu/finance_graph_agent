@@ -1,0 +1,8 @@
+neo4j
+openai
+akshare
+python-dotenv
+mcp
+colorama
+transformers
+torch
